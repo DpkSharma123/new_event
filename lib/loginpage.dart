@@ -228,7 +228,7 @@ class _Loginpage extends State<Loginpage> {
                         }
                         else
                         {
-                          return 'Enter a valid email';
+                          return 'Enter a valid email address';
                         }
         
                       },
