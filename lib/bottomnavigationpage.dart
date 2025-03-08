@@ -50,7 +50,7 @@ class _Bottomnavigationpage extends State<Bottomnavigationpage> {
                       color:tabIndex==1?Color(0XFF007AFF):Color(0XFF9E9E9E)),
                       Text('Events',
                       style:TextStyle(color:tabIndex==1?Color(0XFF007AFF):Color(0XFF9E9E9E),
-                      fontSize:10,fontWeight:FontWeight.w600),),
+                      fontSize:10,fontWeight:FontWeight.w700),),
                     ],
                   ),
                 ),
