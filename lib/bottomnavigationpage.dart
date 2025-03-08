@@ -48,7 +48,7 @@ class _Bottomnavigationpage extends State<Bottomnavigationpage> {
                     children: [
                       Image.asset('assets/star.png',
                       color:tabIndex==1?Color(0XFF007AFF):Color(0XFF9E9E9E)),
-                      Text('Events',
+                      Text('NeewEvents',
                       style:TextStyle(color:tabIndex==1?Color(0XFF007AFF):Color(0XFF9E9E9E),
                       fontSize:10,fontWeight:FontWeight.w700),),
                     ],
