@@ -34,7 +34,7 @@ class _Bottomnavigationpage extends State<Bottomnavigationpage> {
                       Icon(Icons.home,color:tabIndex==0?Color(0XFF007AFF):Color(0XFF9E9E9E)),
                       Text('Home',
                       style:TextStyle(color:tabIndex==0?Color(0XFF048CFF):Color(0XFF9E9E9E),
-                      fontSize:10,fontWeight:FontWeight.w600),)
+                      fontSize:10,fontWeight:FontWeight.w500),)
                     ],
                   ),
                 ),
